@@ -12,6 +12,10 @@ console.log(removeVietnameseAccents.remove('Hoàng Sa, Trường Sa là của Vi
 // Kết quả: Hoang Sa, Truong Sa la cua Viet Nam
 ```
 
+## Note
+
+Thư viện này được viết lại để hỗ trợ typescript từ thư viện [Khong-Dau](https://www.npmjs.com/package/khong-dau)
+
 ## Giấy phép
 
 MIT

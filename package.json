@@ -1,6 +1,6 @@
 {
   "name": "remove-vietnamese-accents",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Remove Vietnamese Accents",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -15,7 +15,14 @@
     "dist",
     "src"
   ],
-  "keywords": [],
+  "keywords": [
+    "remove",
+    "vietnamese",
+    "remove vietnamese accents",
+    "remove accents",
+    "vietnamese accents",
+    "vietnamese accent"
+  ],
   "author": "HienIT",
   "license": "MIT",
   "devDependencies": {
