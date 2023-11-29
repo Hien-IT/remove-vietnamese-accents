@@ -1,13 +1,13 @@
-# Tiếng Việt không dấu
-
+# Xóa dấu Tiếng Việt
 
 ## Sử dụng
 
-
 ```javascript
-import { KhongDau } from 'remove-vietnamese-accents';
+import { RemoveVietnameseAccents } from 'remove-vietnamese-accents';
 
-console.log(KhongDau('Hoàng Sa, Trường Sa là của Việt Nam'));
+const removeVietnameseAccents = new RemoveVietnameseAccents()
+
+console.log(removeVietnameseAccents.remove('Hoàng Sa, Trường Sa là của Việt Nam'));
 
 // Kết quả: Hoang Sa, Truong Sa la cua Viet Nam
 ```

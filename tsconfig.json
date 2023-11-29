@@ -4,6 +4,8 @@
     "module": "commonjs",
     "declaration": true,
     "strict": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
     "outDir": "./dist",
   },
   "include": [
