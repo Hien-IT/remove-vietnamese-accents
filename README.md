@@ -5,7 +5,7 @@
 
 
 ```javascript
-var KhongDau = require('khong-dau');
+import { KhongDau } from 'remove-vietnamese-accents';
 
 console.log(KhongDau('Hoàng Sa, Trường Sa là của Việt Nam'));
 
