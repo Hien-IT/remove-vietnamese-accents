@@ -1,4 +1,4 @@
-[![remove-vietnamese-accents](https://img.shields.io/badge/node-%5E0.10.40-brightgreen.svg)](//www.npmjs.com/package/remove-vietnamese-accents) [![remove-vietnamese-accents](https://img.shields.io/badge/npm-%5E1.4.28-brightgreen.svg)](//www.npmjs.com/package/remove-vietnamese-accents)
+[![remove-vietnamese-accents](https://img.shields.io/badge/npm-%5E1.0.7-brightgreen.svg)](//www.npmjs.com/package/remove-vietnamese-accents)
 
 
 # Xóa dấu Tiếng Việt
